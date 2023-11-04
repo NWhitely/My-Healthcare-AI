@@ -1,3 +1,5 @@
+npm i -g github-spray
+github-spray -t Hello there --font portable_vengeance
 # My-Healthcare-AI
 Introduction to AI in Healthcare
 This is an early introduction into using AI to predict patient health needs based on quantifiable data. 
